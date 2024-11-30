@@ -7,12 +7,12 @@ This notebook provides examples to explore DCA model predictions on small RNAs.
 ### Step 1:
 Download the following files:
 - `utils.jl`
-- `notebook_smallRNA.iypnb`
+- `notebook_smallRNA.ipynb`
 - `data.zip`  
   *(DO NOT UNZIP `data.zip`)*
 
 ### Step 2:
-- Open `notebook_smallRNA.iypnb` on [Google Colab](https://colab.research.google.com).
+- Open `notebook_smallRNA.ipynb` on [Google Colab](https://colab.research.google.com).
 - Upload the files: `utils.jl` and `data.zip`.
 
 ### Step 3:
